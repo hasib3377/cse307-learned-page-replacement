@@ -1,0 +1,51 @@
+timestep,evicted_page,incoming_page,confidence,is_optimal,reuse_distance,explanation
+67,60,69,0.7602,1,998,Page 60 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+68,50,74,0.7839,1,434,Page 50 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+70,72,55,0.7787,1,324,Page 72 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+74,68,70,0.7994,1,720,Page 68 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+75,10,11,0.7545,1,48,Page 10 exhibits an extended inter-arrival interval (avg 46.0 cycles); predicted idle duration exceeds competitor frames.
+82,8,77,0.7526,0,1,Page 8 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+83,47,8,0.7734,1,90,Page 47 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+112,69,46,0.7518,0,10,Page 69 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+116,74,71,0.7534,1,384,Page 74 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+122,55,69,0.7563,1,246,Page 55 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+123,70,10,0.7644,1,38,Page 70 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+131,77,49,0.8223,0,12,Page 77 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+135,46,40,0.7572,1,85,Page 46 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+143,71,77,0.7567,1,194,Page 71 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+153,11,39,0.7537,0,24,Page 11 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+161,7,70,0.7523,0,5,Page 7 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+165,69,38,0.7515,1,180,Page 69 exhibits an extended inter-arrival interval (avg 55.0 cycles); predicted idle duration exceeds competitor frames.
+166,10,7,0.7552,0,8,Page 10 exhibits an extended inter-arrival interval (avg 55.5 cycles); predicted idle duration exceeds competitor frames.
+173,49,47,0.7583,1,198,Page 49 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+174,40,10,0.7767,1,643,Page 40 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+177,77,11,0.773,1,578,Page 77 exhibits an extended inter-arrival interval (avg 61.0 cycles); predicted idle duration exceeds competitor frames.
+189,39,53,0.7621,1,390,Page 39 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+211,70,79,0.762,1,354,Page 70 exhibits an extended inter-arrival interval (avg 87.0 cycles); predicted idle duration exceeds competitor frames.
+220,47,46,0.8013,1,588,Page 47 exhibits an extended inter-arrival interval (avg 111.0 cycles); predicted idle duration exceeds competitor frames.
+227,11,75,0.7561,0,13,Page 11 exhibits an extended inter-arrival interval (avg 51.0 cycles); predicted idle duration exceeds competitor frames.
+240,53,11,0.793,1,632,Page 53 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+258,46,73,0.7686,1,1138,Page 46 exhibits an extended inter-arrival interval (avg 108.0 cycles); predicted idle duration exceeds competitor frames.
+259,79,37,0.7651,1,1009,Page 79 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+265,38,62,0.76,0,21,Page 38 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+286,9,38,0.7538,0,12,Page 9 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+288,11,48,0.7514,0,18,Page 11 exhibits an extended inter-arrival interval (avg 41.8 cycles); predicted idle duration exceeds competitor frames.
+292,73,65,0.7526,1,196,Page 73 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+297,37,42,0.7646,1,464,Page 37 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+298,62,9,0.7806,1,243,Page 62 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+306,75,11,0.792,1,309,Page 75 exhibits an extended inter-arrival interval (avg 46.0 cycles); predicted idle duration exceeds competitor frames.
+316,38,66,0.7656,1,159,Page 38 exhibits an extended inter-arrival interval (avg 60.5 cycles); predicted idle duration exceeds competitor frames.
+337,48,71,0.7568,1,397,Page 48 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+345,65,69,0.7578,1,391,Page 65 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+352,42,76,0.7841,0,18,Page 42 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+368,71,55,0.7675,1,155,Page 71 exhibits an extended inter-arrival interval (avg 221.0 cycles); predicted idle duration exceeds competitor frames.
+370,66,42,0.7687,1,363,Page 66 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+371,69,49,0.7548,1,342,Page 69 exhibits an extended inter-arrival interval (avg 139.0 cycles); predicted idle duration exceeds competitor frames.
+387,10,64,0.7634,0,20,Page 10 scored highest candidate eviction index based on combined recency-frequency scoring margin.
+394,55,72,0.7658,1,315,Page 55 exhibits an extended inter-arrival interval (avg 298.0 cycles); predicted idle duration exceeds competitor frames.
+401,49,63,0.7714,1,849,Page 49 exhibits an extended inter-arrival interval (avg 240.0 cycles); predicted idle duration exceeds competitor frames.
+407,76,10,0.7803,1,59,Page 76 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+411,42,61,0.7565,1,118,Page 42 exhibits an extended inter-arrival interval (avg 73.0 cycles); predicted idle duration exceeds competitor frames.
+428,72,54,0.8043,1,1155,Page 72 exhibits an extended inter-arrival interval (avg 356.0 cycles); predicted idle duration exceeds competitor frames.
+431,64,51,0.7821,1,296,Page 64 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.
+453,63,67,0.7501,1,152,Page 63 exhibits an extended inter-arrival interval (avg 50.0 cycles); predicted idle duration exceeds competitor frames.

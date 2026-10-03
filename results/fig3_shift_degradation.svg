@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 750 450" width="750" height="450" style="font-family: Arial, sans-serif; background-color: #ffffff;">
+<text x="375.0" y="32" text-anchor="middle" font-size="16" font-weight="bold" fill="#111111">Performance Degradation Under Abrupt Workload Shift (k=16)</text>
+<rect x="80" y="60" width="620" height="330" fill="#fcfcfc" stroke="#cccccc" stroke-width="1"/>
+<line x1="80" y1="390.0" x2="700" y2="390.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="394.0" text-anchor="end" font-size="12" fill="#555555">0%</text>
+<line x1="80" y1="324.0" x2="700" y2="324.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="328.0" text-anchor="end" font-size="12" fill="#555555">20%</text>
+<line x1="80" y1="258.0" x2="700" y2="258.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="262.0" text-anchor="end" font-size="12" fill="#555555">40%</text>
+<line x1="80" y1="192.0" x2="700" y2="192.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="196.0" text-anchor="end" font-size="12" fill="#555555">60%</text>
+<line x1="80" y1="126.0" x2="700" y2="126.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="130.0" text-anchor="end" font-size="12" fill="#555555">80%</text>
+<line x1="80" y1="60.0" x2="700" y2="60.0" stroke="#e0e0e0" stroke-width="1" stroke-dasharray="3,3"/>
+<text x="70" y="64.0" text-anchor="end" font-size="12" fill="#555555">100%</text>
+<text x="25" y="225.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#222222" transform="rotate(-90 25 225.0)">Hit Ratio (%)</text>
+<rect x="104.9" y="130.9" width="49.6" height="259.1" fill="#2b5c8f" rx="2"/>
+<text x="129.7" y="124.9" text-anchor="middle" font-size="10" fill="#2b5c8f" font-weight="bold">78.5%</text>
+<rect x="160.5" y="341.8" width="49.6" height="48.2" fill="#d95f02" rx="2"/>
+<text x="185.3" y="335.8" text-anchor="middle" font-size="10" fill="#d95f02" font-weight="bold">14.6%</text>
+<text x="157.5" y="412" text-anchor="middle" font-size="12" fill="#333333" font-weight="bold">FIFO</text>
+<rect x="259.9" y="103.8" width="49.6" height="286.2" fill="#2b5c8f" rx="2"/>
+<text x="284.7" y="97.8" text-anchor="middle" font-size="10" fill="#2b5c8f" font-weight="bold">86.7%</text>
+<rect x="315.5" y="343.2" width="49.6" height="46.8" fill="#d95f02" rx="2"/>
+<text x="340.3" y="337.2" text-anchor="middle" font-size="10" fill="#d95f02" font-weight="bold">14.2%</text>
+<text x="312.5" y="412" text-anchor="middle" font-size="12" fill="#333333" font-weight="bold">LRU</text>
+<rect x="414.9" y="84.8" width="49.6" height="305.2" fill="#2b5c8f" rx="2"/>
+<text x="439.7" y="78.8" text-anchor="middle" font-size="10" fill="#2b5c8f" font-weight="bold">92.5%</text>
+<rect x="470.5" y="215.4" width="49.6" height="174.6" fill="#d95f02" rx="2"/>
+<text x="495.3" y="209.4" text-anchor="middle" font-size="10" fill="#d95f02" font-weight="bold">52.9%</text>
+<text x="467.5" y="412" text-anchor="middle" font-size="12" fill="#333333" font-weight="bold">Optimal (Belady)</text>
+<rect x="569.9" y="92.9" width="49.6" height="297.1" fill="#2b5c8f" rx="2"/>
+<text x="594.7" y="86.9" text-anchor="middle" font-size="10" fill="#2b5c8f" font-weight="bold">90.0%</text>
+<rect x="625.5" y="339.4" width="49.6" height="50.6" fill="#d95f02" rx="2"/>
+<text x="650.3" y="333.4" text-anchor="middle" font-size="10" fill="#d95f02" font-weight="bold">15.3%</text>
+<text x="622.5" y="412" text-anchor="middle" font-size="12" fill="#333333" font-weight="bold">Learned-LRU+</text>
+<rect x="450" y="70" width="230" height="58" fill="#ffffff" stroke="#cccccc" stroke-width="1" rx="4" opacity="0.95"/>
+<rect x="460" y="80" width="16" height="16" fill="#2b5c8f" rx="2"/>
+<text x="484" y="93" font-size="11" fill="#333333">Phase 1: Locality-Dominant</text>
+<rect x="460" y="103" width="16" height="16" fill="#d95f02" rx="2"/>
+<text x="484" y="116" font-size="11" fill="#333333">Phase 2: Cyclic Scan / Noise</text>
+</svg>
